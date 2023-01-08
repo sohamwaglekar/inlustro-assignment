@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "trafficdata": "Direct",
+        "point": "1,43,382",
+        "values": "60"
+    },
+    {
+        "id": 2,
+        "trafficdata": "Referral",
+        "point": "87,974",
+        "values": "40"
+    },
+    {
+        "id": 3,
+        "trafficdata": "Social Media",
+        "point": "45,211",
+        "values": "20"
+    },
+    {
+        "id": 4,
+        "trafficdata": "Twitter",
+        "point": "21,893",
+        "values": "30"
+    }
+    
+]

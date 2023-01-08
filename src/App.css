@@ -1,0 +1,12 @@
+.cust-fbfbfb{
+    background-color: #fbfbfb;
+}
+.custprimary{
+    background-color: #6262ea !important;
+}
+.cust-progressheight{
+        height: 5px !important;
+    }
+.dropdown-toggle::after {
+    display: none !important;
+}
